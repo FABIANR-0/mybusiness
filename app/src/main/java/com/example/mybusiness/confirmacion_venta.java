@@ -118,6 +118,7 @@ public class confirmacion_venta extends AppCompatActivity {
          }else{
             bd.close();
         }
+         //cambio en git  (commit)
         precioe.setText(precio+" pesos");
         codigo.setText(codigoAl());
         codigoGen=codigo.getText().toString();
