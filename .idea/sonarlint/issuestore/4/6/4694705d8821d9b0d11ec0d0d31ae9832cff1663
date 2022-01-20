@@ -1,0 +1,52 @@
+
+d
+java:S1659"IDeclare "listaplaness" and all following declarations on a separate line.(š£Œ­ûÿÿÿÿ
+k
+java:S1450"URemove the "imagen" field and declare it as a local variable in the relevant methods.(ë¯Ô°
+h
+java:S1450"RRemove the "lv1" field and declare it as a local variable in the relevant methods.(ı¡ŠĞ
+]
+java:S1161«":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8ë…Øñæ/
+]
+java:S1161»":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8õ…Øñæ/
+]
+java:S1161Ë":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8û…Øñæ/
+]
+java:S1161Û":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8öÓ’ç/
+]
+java:S1161ë":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8€Ô’ç/
+]
+java:S1161û":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8€Ô’ç/
+F
+java:S1172…"(Remove this unused method parameter "v".(ÇÌêù8€Ô’ç/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾¬äÿÿÿÿÿ
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ê¤ß
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(´»Œıÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºí¬—úÿÿÿÿ
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï¼µşÿÿÿÿ
+n
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¤Ù{
+d
+java:S1192N"IDefine a constant instead of duplicating this literal "posicion" 6 times.(îó¦µÿÿÿÿÿ
+d
+java:S1192P"IDefine a constant instead of duplicating this literal "afiliado" 6 times.(ä½ø”ûÿÿÿÿ
+e
+java:S1192D"HDefine a constant instead of duplicating this literal "usuario" 7 times.(¹÷ å8¶ÅÖñæ/
+>
+java:S1604I"(Make this anonymous inner class a lambda(–ÒÍ
+>
+java:S1604X"(Make this anonymous inner class a lambda(–ÒÍ
+>
+java:S1604g"(Make this anonymous inner class a lambda(–ÒÍ
+>
+java:S1604w"(Make this anonymous inner class a lambda(–ÒÍ
+?
+java:S1604‡"(Make this anonymous inner class a lambda(–ÒÍ
+?
+java:S1604—"(Make this anonymous inner class a lambda(–ÒÍ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶É•Ã
