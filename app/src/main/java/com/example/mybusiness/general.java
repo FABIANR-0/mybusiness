@@ -34,6 +34,8 @@ public class general extends AppCompatActivity {
     private ConstraintLayout pagina1, pagina2;
     private ImageButton imgHome, imgHis, imgSal;
 
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
