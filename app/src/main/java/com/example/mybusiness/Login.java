@@ -33,6 +33,7 @@ public class Login extends AppCompatActivity {
       Intent ac=  new Intent(this, Register.class);
       startActivity(ac);
     }
+    //onClick en el boton de iniciar sesion
     public void logearse(View v){
         AdminSQLiteOpenHelper admin= new AdminSQLiteOpenHelper(this,"administracion",null,1);
         SQLiteDatabase bd=admin.getWritableDatabase();
