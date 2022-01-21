@@ -40,6 +40,7 @@ public class Login extends AppCompatActivity {
         String email=et1.getText().toString();
         String clave=et2.getText().toString();
 
+        //validacion de los editText a la hora de logearse
         Matcher mather = pattern.matcher(email);
         if ( email.equals("")||clave.equals("")){
             Toast.makeText(this, "Todos los campos son obligatorios", Toast.LENGTH_SHORT).show();
